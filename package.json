@@ -1,0 +1,10 @@
+{
+  "name": "leaderboard-creator-discord-bot",
+  "version": "1.0.0",
+  "devDependencies": {
+    "axios": "^1.5.1"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
